@@ -16,7 +16,7 @@
             <ul>
               <li>Define the target environment, selecting from the most current and two previous versions of the
                 DITA-OT</li>
-              <li>Select the XSL formatting engine (FOP, Antenna House Formatter, or XEP)</li>
+              <li>Select the XSL formatting engine (FOP, Antenna House Formatter, or RenderX XEP)</li>
               <li>Specify page size, columns, and margins</li>
               <li>Select from (limited) options for headers and footers</li>
               <li>Specify layout options for chapters</li>

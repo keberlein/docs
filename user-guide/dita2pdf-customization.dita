@@ -4,8 +4,8 @@
 
 <task id="dita2pdf-customization" xml:lang="en">
   <title>Example: Creating a simple PDF plug-in</title>
-  <shortdesc>This tutorial walks through the process of creating a very simple plug-in (com.example.print-pdf) that
-    creates a new transformation type: <option>print-pdf</option>. </shortdesc>
+  <shortdesc>This scenario walks through the process of creating a very simple plug-in
+      (<codeph>com.example.print-pdf</codeph>) that creates a new transformation type: <option>print-pdf</option>. </shortdesc>
   <taskbody>
     <context>
       <p>The <option>print-pdf</option> transformation has the following characteristics:</p>
